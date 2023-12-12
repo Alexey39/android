@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="Email">example@mail.ru</string>
+
+    <string name="code">Отправить код повторно можно \nбудет через 59 секунд</string>
+
+    <string name="card">Создание карты \nпациента</string>
+
+    <string name="o">Без карты пациента вы не сможете заказать анализы.</string>
+
+    <string name="a">В картах пациентов будут храниться результаты \nанализов вас и ваших близких.</string>
+
+    <string-array name="spinner">
+        <item>Женский</item>
+        <item>Мужской</item>
+    </string-array>
+
+    <string name="hint_resourse">Пол</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
